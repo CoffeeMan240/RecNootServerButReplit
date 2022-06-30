@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "53Oq2ek/qiW4JLFJU+ymWTjto/mV+H2+004Zt0MJzDWC0FytUkizBouRfsJRH81wU+0cfWn1e+prwumeVYozSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CoffeeMan\\VS projects\\RecNootMain\\RecNootServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CoffeeMan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\CoffeeMan\\.nuget\\packages\\websocketsharp\\1.0.3-rc11\\websocketsharp.1.0.3-rc11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WebSocketSharp 1.0.3-rc11' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "WebSocketSharp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
